@@ -1,0 +1,19 @@
+================== Max Highscore ==================
+
+com.noadev.zrist.hiScore
+
+99999999999999999999
+
+================== Max Level ==================
+
+com.noadev.zrist.hiScreens
+
+999
+
+================================================
+
+Code written by: Phinehas Beresford (Crako)
+
+Github Account: https://github.com/Cracko298
+
+Have Fun ;)
